@@ -1,0 +1,33 @@
+#rightBar {
+    background-color: #373C4A;
+    width: 100%;
+    flex-direction: column;
+
+}
+
+#topBar {
+    background-color: #DC3F3B;
+    height: 50px;
+    color: white;
+    padding-top: 10px;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: end;
+}
+
+#avatar{
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+#message{
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+#main{
+    display: flex;
+    gap: 25px;
+    justify-content: space-around;
+}

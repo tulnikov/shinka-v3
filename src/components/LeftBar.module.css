@@ -1,0 +1,27 @@
+#leftBar {
+    background-color: #212529;
+    width: 280px;
+    height: 1080px; /* Удалить  */
+    flex-direction: column;
+}
+
+#logoBar {
+    background-color: #DC3F3B;
+    height: 50px;
+    color: white;
+    text-align: left;
+    padding-top: 10px;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+#logoBar span {
+    padding: 0 0 0 10px;
+    font-weight: bold;
+
+}
+
+#logoImg {
+
+
+}
